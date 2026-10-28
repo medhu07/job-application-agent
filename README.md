@@ -6,9 +6,8 @@ Built with Python, Streamlit, and Google Gemini, this project aims to make the j
 
 ## Live Demo
 
-**Live Application:**https://job-application-agent-7ogx.onrender.com/
+## Live Application:https://job-application-agent-7ogx.onrender.com/
 
-> Note: Replace this URL with your actual Render URL if it differs.
 
 ## Features
 
