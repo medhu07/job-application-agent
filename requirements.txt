@@ -1,0 +1,10 @@
+
+streamlit
+pymupdf
+python-docx
+python-dotenv
+pydantic
+groq
+google-genai
+apify-client
+requests
